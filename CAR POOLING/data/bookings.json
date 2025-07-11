@@ -1,0 +1,46 @@
+[
+    {
+        "passenger": {
+            "username": "Aditya2323",
+            "from": "indore",
+            "to": "pune",
+            "date": "2025-07-11",
+            "time": "12:02:00"
+        },
+        "driver": {
+            "name": "Aaditya",
+            "age": 25,
+            "gender": "Male",
+            "driver_id": "1234567890",
+            "national_id": "1234567890",
+            "vehicle_no": "1234567890",
+            "contact": "1234567890",
+            "from": "indore",
+            "to": "pune",
+            "date": "2025-07-11",
+            "time": "12:00:00"
+        }
+    },
+    {
+        "passenger": {
+            "username": "Aditya2323",
+            "from": "indore",
+            "to": "pune",
+            "date": "2025-07-11",
+            "time": "12:02:00"
+        },
+        "driver": {
+            "name": "Aaditya",
+            "age": 25,
+            "gender": "Male",
+            "driver_id": "1234567890",
+            "national_id": "1234567890",
+            "vehicle_no": "1234567890",
+            "contact": "1234567890",
+            "from": "indore",
+            "to": "pune",
+            "date": "2025-07-11",
+            "time": "12:00:00"
+        }
+    }
+]
